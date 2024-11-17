@@ -9,6 +9,9 @@ The Kanban Board is a task management application designed to help users visuali
 - [Setup Instructions](#setup-instructions)
 - [License](#license)
 
+Website Link:
+
+https://krazy-kanban-board-pqvr.onrender.com/
 
 This application is ideal for individuals or teams seeking an organized way to track and manage tasks.
 
@@ -17,6 +20,8 @@ This application is ideal for individuals or teams seeking an organized way to t
 - **Task Management:** Users can create, update, and delete tasks.
 - **Dynamic Task Categorization:** Move tasks between "To Do," "In Progress," and "Done".
 - **Responsive Design:** Optimized for use on desktop and mobile devices.
+
+![Project Screenshot](README-Screenshot/screenshot.png) 
 
 
 ## Technologies Used
